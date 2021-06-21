@@ -1,0 +1,73 @@
+baseURL = "https://gohugo.io"
+title = "Wettersat"
+author = "Konrad Gralher"
+copyright = "Copyright © 2021, Konrad Gralher; alle Rechte vorbehalten."
+paginate = 3
+languageCode = "de"
+DefaultContentLanguage = "de"
+enableInlineShortcodes = true
+# prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
+# See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
+ignoreErrors = ["error-remote-getjson"]
+
+[menu]
+  [[menu.subject]]
+    identifier = "welcome"
+    name = "welcome"
+    url = "posts/welcome/"
+    weight = 10
+    
+  [[menu.main]]
+    identifier = "Über"
+    name = "About"
+    url = "/about/"
+    weight = 10
+    
+    
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[privacy]
+
+  [privacy.vimeo]
+    disabled = true
+    simple = true
+
+  [privacy.twitter]
+    disabled = false
+    enableDNT = false
+    simple = false
+
+  [privacy.instagram]
+    disabled = true
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true
+
+
+[Params]
+  pagewidth = "100%"
+  custom_css = ["/css/coustom.css"]
+
+
+[Params.sociallink]
+  twitter        = "konradrundfunk"
+  github         = "konradrundfunk"
+
+[Params.card]
+  date    = true
+  summary = true
+  width   = "32%"

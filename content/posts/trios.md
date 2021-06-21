@@ -9,7 +9,7 @@ ersten Teil dieser Arbeit beschäftigt habe
 sind Teil des Trios Programms der NASA. Aus
 dieser Serie stammt auch der erste Wettersatellit der Geschichte TRIROS-1.
 
-![Herren bauen an einem Satelliten](/images/338885main_tiros-full.jpg)
+![Herren bauen an einem Satelliten](/wettersat/images/338885main_tiros-full.jpg)
 
 1960 gestartet, gelang
 ihm das erste TV Bild unserer Erde
@@ -28,7 +28,7 @@ sind noch heute 3 Satelliten der Serie in Betrieb und senden Bilder
 im APT(automatic picture transmition)(weitere
 Informationen im ersten Teil) Format. 
 
-![Kontrollzentrum des Satelliten](/images/g-64-511.jpg)
+![Kontrollzentrum des Satelliten](/wettersat/images/g-64-511.jpg)
 
 Da dieses System aber in sehr in die Jahre gekommen ist, wird Noaa 19 (gestartet 2009) wohl der
 letzte Satellit der Baureihe sein. Erstaunlich

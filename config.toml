@@ -1,4 +1,4 @@
-baseURL = "https://gohugo.io"
+baseURL = "https://konradrundfunk.github.io/wettersat/"
 title = "Wettersat"
 author = "Konrad Gralher"
 copyright = "Copyright © 2021, Konrad Gralher; alle Rechte vorbehalten."

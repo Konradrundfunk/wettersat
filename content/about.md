@@ -7,4 +7,4 @@ author = "Konrad Gralher"
 +++
 
 **Name:** Konrad Gralher \
-**Betreuer:** Nico Chors 
+**Betreuer:** Nico Cohrs 

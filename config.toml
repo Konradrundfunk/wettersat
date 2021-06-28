@@ -59,7 +59,7 @@ series = "series"
 
 
 [Params]
-  pagewidth = "200px"
+  pagewidth = "2000px"
   custom_css = ["/css/coustom.css"]
 
 

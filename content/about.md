@@ -8,3 +8,4 @@ author = "Konrad Gralher"
 
 **Name:** Konrad Gralher \
 **Betreuer:** Nico Cohrs 
+Danke auch an Ullrich Mueller bei dem Bau der Antenne!
